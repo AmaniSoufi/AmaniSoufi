@@ -30,10 +30,11 @@
 ## Languages and Tools
 
 <a href="https://dart.dev" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Dart_programming_language_logo.svg" alt="Dart" width="60" height="60" />
+  <img src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png" alt="Dart" width="60" height="60" />
 </a>
 <a href="https://www.php.net" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg" alt="PHP" width="60" height="60" />
+  <img src="![image](https://github.com/user-attachments/assets/76b39102-5749-44cd-a031-d5e667f7cf30)
+" alt="PHP" width="60" height="60" />
 </a>
 <a href="https://flutter.dev" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Flutter_logo_2021.svg" alt="Flutter" width="60" height="60" />
