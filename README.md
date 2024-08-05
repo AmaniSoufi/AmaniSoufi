@@ -14,4 +14,4 @@
 ## Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40yourusername-E4405F?style=social&logo=instagram)](https://www.instagram.com/flutterwithamani)
-[![Facebook](https://img.shields.io/badge/Facebook-%40yourusername-1877F2?style=social&logo=facebook)](https://www.facebook.com/yourusername)
+[![Facebook](https://img.shields.io/badge/Facebook-%40yourusername-1877F2?style=social&logo=facebook)](https://www.facebook.com/flutterwithamani)
