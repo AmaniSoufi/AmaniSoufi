@@ -25,11 +25,10 @@
 <a href="https://www.facebook.com/flutterwithamani" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="50" height="50" />
 </a>
-
 ## Languages and Tools
 
 <a href="https://dart.dev" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Dart_programming_language_logo.svg" alt="Dart" width="30" height="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Dart_programming_language_logo.svg" alt="Dart" width="60" height="60" />
 </a>
 <a href="https://www.php.net" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg" alt="PHP" width="60" height="60" />
@@ -55,4 +54,4 @@
 <a href="https://www.w3.org/html/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="60" height="60" />
 </a>
-</a>
+
