@@ -29,7 +29,7 @@
 ## Languages and Tools
 
 <a href="https://dart.dev" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Dart_programming_language_logo.svg" alt="Dart" width="60" height="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Dart_programming_language_logo.svg" alt="Dart" width="50" height="50" />
 </a>
 <a href="https://www.php.net" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg" alt="PHP" width="60" height="60" />
