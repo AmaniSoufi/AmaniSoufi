@@ -30,23 +30,23 @@
 ## Languages and Tools
 
 <a href="https://dart.dev" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Dart_programming_language_logo.svg" alt="Dart" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Dart_programming_language_logo.svg" alt="Dart" width="60" height="60" />
 </a>
 <a href="https://www.php.net" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg" alt="PHP" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg" alt="PHP" width="60" height="60" />
 </a>
 <a href="https://flutter.dev" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Flutter_logo_2021.svg" alt="Flutter" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Flutter_logo_2021.svg" alt="Flutter" width="60" height="60" />
 </a>
 <a href="https://firebase.google.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Firebase_Logo.png" alt="Firebase" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Firebase_Logo.png" alt="Firebase" width="60" height="60" />
 </a>
 <a href="https://www.postman.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Postman_Logo.png" alt="Postman" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Postman_Logo.png" alt="Postman" width="60" height="60" />
 </a>
 <a href="https://www.mysql.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/MySQL_logo.png" alt="MySQL" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/MySQL_logo.png" alt="MySQL" width="60" height="60" />
 </a>
 <a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="60" height="60" />
 </a>
