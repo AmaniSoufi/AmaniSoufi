@@ -1,3 +1,5 @@
+          ##A passionate frontend developer 
+          
 - 👋 Hi, I’m AmaniSoufi
 - 👀 I’m interested in frontend development, especially with Flutter and Dart.
 - 🌱 I’m currently learning more about advanced Firebase features and best practices in Flutter development.
