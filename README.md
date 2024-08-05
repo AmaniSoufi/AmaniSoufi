@@ -48,7 +48,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Postman_Logo.png" alt="Postman" width="60" height="60" />
 </a>
 <a href="https://www.mysql.com" target="_blank">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/6/6b/MySQL_logo.png](https://www.google.com/imgres?q=mysql%20logo%20svg&imgurl=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F303251%2Fmysql-logo.svg&imgrefurl=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F303251%2Fmysql-logo&docid=hSyjC2s7YDgsJM&tbnid=O_WtOcZmRnAX2M&vet=12ahUKEwiMvZ2c3d2HAxWd2QIHHaFiNrMQM3oFCIkBEAA..i&w=800&h=800&hcb=2&ved=2ahUKEwiMvZ2c3d2HAxWd2QIHHaFiNrMQM3oFCIkBEAA)" alt="MySQL" width="60" height="60" />
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="60" height="60" />
 </a>
 <a href="https://jupyter.org" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/2560px-Jupyter_logo.svg.png" alt="Jupyter" width="60" height="60" />
