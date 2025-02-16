@@ -1,5 +1,4 @@
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=AmaniSoufi&color=blue)
 
 # **Hi, I’m Amani Soufi**
 
